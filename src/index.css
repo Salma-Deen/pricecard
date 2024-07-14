@@ -1,0 +1,44 @@
+/* Created the main outline of the project using className "price-root" */
+.price-root {
+    border: 1px solid white;
+    background-color: rgb(43, 43, 236);
+    height: 550px;
+    width: 990px;
+    margin: 70px;
+    padding: 13px;
+
+}
+
+/* Created inner (THREE) boxes with padding and margins with data */
+.price {
+    border: 1px solid white;
+    border-radius: 15px;
+    height: 500px;
+    width: 300px;
+    background-color: #fff;
+    display: inline-block;
+    margin: 10px;
+    padding: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+}
+
+/* Created className "month" to give extra alignments to "month"  */
+.month {
+    text-align: center;
+    font-size: 34px;
+}
+
+/* It gives styles to the button */
+.button {
+    text-align: center;
+    width: 100%;
+    background-color: rgb(66, 158, 195);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    border: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-top: 7px;
+}

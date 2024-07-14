@@ -1,0 +1,116 @@
+[
+  {
+    "type": "FREE",
+    "price": 0,
+    "features": [
+      {
+        "name": "Single User",
+        "available": true
+      },
+      {
+        "name": "50GB Storage",
+        "available": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "available": true
+      },
+      {
+        "name": "Community Access",
+        "available": true
+      },
+      {
+        "name": "Unlimited Private Projects",
+        "available": false
+      },
+      {
+        "name": "Dedicated Phone Support",
+        "available": false
+      },
+      {
+        "name": "Free Subdomain",
+        "available": false
+      },
+      {
+        "name": "Monthly Status Reports",
+        "available": false
+      }
+    ]
+  },
+  {
+    "type": "PLUS",
+    "price": 9,
+    "features": [
+      {
+        "name": "Single User",
+        "available": true
+      },
+      {
+        "name": "50GB Storage",
+        "available": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "available": true
+      },
+      {
+        "name": "Community Access",
+        "available": true
+      },
+      {
+        "name": "Unlimited Private Projects",
+        "available": true
+      },
+      {
+        "name": "Dedicated Phone Support",
+        "available": true
+      },
+      {
+        "name": "Free Subdomain",
+        "available": true
+      },
+      {
+        "name": "Monthly Status Reports",
+        "available": false
+      }
+    ]
+  },
+  {
+    "type": "PRO",
+    "price": 49,
+    "features": [
+      {
+        "name": "Single User",
+        "available": true
+      },
+      {
+        "name": "50GB Storage",
+        "available": true
+      },
+      {
+        "name": "Unlimited Public Projects",
+        "available": true
+      },
+      {
+        "name": "Community Access",
+        "available": true
+      },
+      {
+        "name": "Unlimited Private Projects",
+        "available": true
+      },
+      {
+        "name": "Dedicated Phone Support",
+        "available": true
+      },
+      {
+        "name": "Free Subdomain",
+        "available": true
+      },
+      {
+        "name": "Monthly Status Reports",
+        "available": true
+      }
+    ]
+  }
+]
